@@ -1,7 +1,7 @@
  ## 👋 Hi there, I am Divyank Lunkad
  
  ### 👨🏻‍💻 &nbsp;About Me
-- 📘 I'm a pre final year student at PICT, Pune
+- 📘 I'm a final year student at PICT, Pune
 - 🌱 I’m here to learn new things and collaborate on interesting projects
 
 ### ⚙️ GitHub Analytics
