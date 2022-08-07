@@ -1,6 +1,6 @@
 ## Hi, I am Divyank Lunkad! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Divyank Lunkad, currently in the final year of my BE in Computer Engineering from [Pune Institute of Computer Technology](https://pict.edu/). I am a tech savant and an open-source enthusiast. I am always open to collaborating on projects and innovative ideas. Currently, I am an intern at Swiggy, and in the past, I have participated in GSoC'21 while interning at UBS Bank. <br></br>Find out more about me & feel free to connect with me here:
+I am Divyank Lunkad, currently a graduate student at University of Southern California in Computer Science. I have pursued my BE in Computer Engineering from [Pune Institute of Computer Technology](https://pict.edu/). I am a tech savant and an open-source enthusiast. I am always open to collaborating on projects and innovative ideas. I was an intern at Swiggy, UBS Bank, and I also have participated in GSoC'21. <br></br>Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-divyank00-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/divyank00/)
 [![Gmail Badge](https://img.shields.io/badge/-lunkaddivyank@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:lunkaddivyank@gmail.com)
